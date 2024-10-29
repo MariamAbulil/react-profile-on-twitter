@@ -1,0 +1,22 @@
+.sidebar-item {
+    display: flex;
+    align-items: center;
+    padding: 10px 15px;
+    font-size: 18px;
+    color: #ffffff;
+    cursor: pointer;
+  }
+  
+  .sidebar-item:hover {
+    background-color: #333;
+    border-radius: 30px;
+  }
+  
+  .sidebar-icon {
+    margin-right: 10px;
+    font-size: 20px;
+  }
+  
+  .sidebar-text {
+    font-weight: bold;
+  }
